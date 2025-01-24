@@ -1,0 +1,1 @@
+import{_ as o,r as t,o as a,c,a as n}from"./index-CXyP7EXo.js";const r={},s={class:"layout-wrapper layout-blank"};function _(l,p){const e=t("RouterView");return a(),c("div",s,[n(e)])}const u=o(r,[["render",_]]);export{u as default};
