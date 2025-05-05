@@ -1,0 +1,1 @@
+import{_ as o,c as t,a,r as c,o as n}from"./index-CkGAp0MD.js";const r={},s={class:"layout-wrapper layout-blank"};function _(l,p){const e=c("RouterView");return n(),t("div",s,[a(e)])}const u=o(r,[["render",_]]);export{u as default};
